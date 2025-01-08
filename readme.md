@@ -1,7 +1,7 @@
 # ffmpeg-utils
 
 This project started out as a personal need to study for the AWS Professional Solutions Architecture Certification.
-I had access to multiple courses as mp4 files, but I wanted to use VLC to listen and cast to my TV, where iTunes fails miserably.  While iTunes has sorting functionality, sometimes, it would not sort in the correct order.  I also wanted each course to alternate between the next section of the course so that it was like a day at the University: aka., I would be exposed to 3 different lectures.
+I had access to multiple courses as mp4 files, but I wanted to use VLC to listen and cast to my TV, where iTunes fails miserably.  While iTunes has sorting functionality, sometimes, it would not sort in the correct order.  I also wanted each course to alternate between the next section of the course so that it was like a day at the University: aka., I would be exposed to 3 different lectures and then the next section for each course would be in the playlist.
 
 ## Three main functions
 * Create mp3 files from mp4s as a batch operation.
